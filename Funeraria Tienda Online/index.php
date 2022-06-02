@@ -29,6 +29,10 @@
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="index.php">Funeraria la unica esperanza</a>
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          <a class="navbar-brand" href="info.php">¿Quienes Somos?</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav pull-right">

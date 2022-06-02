@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>La unica esperanza</title>
+    <title>La única esperanza</title>
 
     <!-- Último CSS compilado y minificado -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -45,7 +45,7 @@
 <td align="left">
 <dd><h3 align="center">Misi&oacute;n</h3></dd>
 
-  <dd><h4 style="font-style: italic;">&#34; Brindar el mejor servicio hacia nuestros clientes demostrando así, el compromiso con la sociedad, ofreciéndoles de la manera más amable y humana asistencia en los momentos difíciles velando por la tranquilidad de quienes deposita la confianza en nosotros.&#34;</h4></dd>
+  <dd><h4 style="font-style: italic;">&#34; Brindar el mejor servicio hacía nuestros clientes demostrando así, el compromiso con la sociedad, ofreciéndoles de la manera más amable y humana asistencia en los momentos difíciles velando por la tranquilidad de quiénes deposita la confianza en nosotros.&#34;</h4></dd>
   
 <td align="left">
 <dl>
@@ -59,7 +59,7 @@
 
 <td colspan="2" align="left">
   <br><br>
-  <dd><h4> Somos una empresa dedicada a brindar servcios funerales a nuestros clientes, tenemos varios tipos de servcios buscando asi darle al cliente la oportunidad<br> de obtener lo que mejor se acople a lo que est&aacute; buscando. </h4><dd>
+  <dd><h4> Somos una empresa dedicada a brindar servicios funerales a nuestros clientes, tenemos varios tipos de servcios buscando así, darle al cliente la oportunidad<br> de obtener lo que mejor se acople a lo que estás buscando. </h4><dd>
 
 <dd><h4 align="left">Nuestros locales se encuentran ubicados en: </h4></dd>
 </dl>
@@ -106,13 +106,13 @@
 <tr>
   <td width="40%" colspan="2" valign="top">
     <h2 style="color: #FFFFFF;"> Horario de Atención</h2>
-    <p  style="color: #FFFFFF"> Nuestros locales estan abiertos y disponibles para ti 24/7, en el momento que <br>necesites nuestros servicios puedes llamar o cosultar a trav&eacute;s de:</p>
+    <p  style="color: #FFFFFF"> Nuestros locales están abiertos y disponibles para tí 24/7, en el momento que <br>necesites nuestros servicios puedes llamar o cosultar a través de:</p>
   </td>
   <td valign="top" style="text-align: left;" width="16.5%" colspan="2" rowspan="2">
     <h2 align="left" style="color: #FFFFFF">Enlaces</h2>
     <a  style="width: 40%; background-color:#111f4d; color: #FFFFFF;text-align: right;" href="nuestrosservicios.html"><u>  Nuestros Servicios</u></a><br>
-    <a style="width: 40%; background-color:#111f4d; color: #FFFFFF;text-align: right;" href="quienessomos.html"><u>&iquest;  Quienes Somos?</u></a><br>
-    <a style="width: 40%; background-color:#111f4d; color: #FFFFFF; text-align: center;" href="contactanos.html"><u>  Contactanos</u></a> 
+    <a style="width: 40%; background-color:#111f4d; color: #FFFFFF;text-align: right;" href="quienessomos.html"><u>&iquest;  Quiénes Somos?</u></a><br>
+    <a style="width: 40%; background-color:#111f4d; color: #FFFFFF; text-align: center;" href="contactanos.html"><u>  Contáctanos</u></a> 
 
   
   </td>
@@ -124,7 +124,7 @@
 </tr>
 <tr>
   <td valign="top" colspan="2">
-    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="" width="9%" align="center" hspace="5px">Funerales La &Uacute;nica Esperanza</a>
+    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="" width="9%" align="center" hspace="5px">Funerales La única Esperanza</a>
 
 
     <a style="text-align: center;"  href="tel:+50361189645"><img src="" width="10%" align="center" hspace="5px">6118-9645</a>

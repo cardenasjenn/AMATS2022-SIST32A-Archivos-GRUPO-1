@@ -43,7 +43,7 @@
 <br>
 <tr>
 <td align="left">
-<dd><h3 align="center">Misi&oacute;n</h3></dd>
+<dd><h3 align="center">Misión</h3></dd>
 
   <dd><h4 style="font-style: italic;">&#34; Brindar el mejor servicio hacia nuestros clientes demostrando así, el compromiso con la sociedad, ofreciéndoles de la manera más amable y humana asistencia en los momentos difíciles velando por la tranquilidad de quienes deposita la confianza en nosotros.&#34;</h4></dd>
   

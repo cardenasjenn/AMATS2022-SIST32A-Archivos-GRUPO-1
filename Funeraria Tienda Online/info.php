@@ -69,22 +69,22 @@
 <tr>
 <td align="left">
 <dl>
-  <dd><h4><img src="imagenes/icono1.png" width="1.8%" align="center"> Santa Ana</h4></dd>
+  <dd><h4><img src="" width="1.8%" align="center"> Santa Ana</h4></dd>
 </dl>
 </td>
 <td align="left" >
-<h4><img src="imagenes/icono1.png" width="2%" align="center"> Sonsonate</h4>
+<h4><img src="" width="2%" align="center"> Sonsonate</h4>
 </td>
 </tr>
 
 <tr>
 <td>
-  <img src="imagenes/local1.png" width="90%" height="400px">
+  <img src="" width="90%" height="400px">
 
   <br><br><br>
 </td>
 <td>
-  <img src="imagenes/local2.jpg" width="100%" height="400px">
+  <img src="" width="100%" height="400px">
   
   <br><br><br>
 </td>
@@ -124,15 +124,15 @@
 </tr>
 <tr>
   <td valign="top" colspan="2">
-    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="imagenes/facebook.png" width="9%" align="center" hspace="5px">Funerales La &Uacute;nica Esperanza</a>
+    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="" width="9%" align="center" hspace="5px">Funerales La &Uacute;nica Esperanza</a>
 
 
-    <a style="text-align: center;"  href="tel:+50361189645"><img src="imagenes/whatsapp.png" width="10%" align="center" hspace="5px">6118-9645</a>
+    <a style="text-align: center;"  href="tel:+50361189645"><img src="" width="10%" align="center" hspace="5px">6118-9645</a>
 
-    <a style="text-align: center;" target="_blank" href="mailto:unicaesperanza@gmail.com"><img src="imagenes/gmail.png" width="10%" align="center" hspace="5px"> unicaesperanza@gmail.com</a>
+    <a style="text-align: center;" target="_blank" href="mailto:unicaesperanza@gmail.com"><img src="" width="10%" align="center" hspace="5px"> unicaesperanza@gmail.com</a>
 
 
-    <a style="text-align: center;" href="tel:+50324411926"><img src="imagenes/whatsapp.png" width="10%" align="center" hspace="5px">2441-1926</a>
+    <a style="text-align: center;" href="tel:+50324411926"><img src="" width="10%" align="center" hspace="5px">2441-1926</a>
   
 
   </td>

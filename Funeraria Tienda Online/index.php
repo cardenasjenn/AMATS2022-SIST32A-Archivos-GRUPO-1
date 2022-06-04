@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>La unica esperanza</title>
+    <title>La única esperanza</title>
 
     <!-- Último CSS compilado y minificado -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -28,11 +28,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">Funeraria la unica esperanza</a>
+          <a class="navbar-brand" href="index.php">Funeraria la única esperanza</a>
           <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          <a class="navbar-brand" href="info.php">¿Quienes Somos?</a>
+          <a class="navbar-brand" href="info.php">¿Quiénes Somos?</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav pull-right">

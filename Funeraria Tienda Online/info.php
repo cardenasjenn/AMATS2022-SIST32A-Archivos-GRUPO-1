@@ -79,12 +79,12 @@
 
 <tr>
 <td>
-  <img src="" width="90%" height="400px">
+  <img src="Imagenes/local1.png" width="90%" height="400px">
 
   <br><br><br>
 </td>
 <td>
-  <img src="" width="100%" height="400px">
+  <img src="Imagenes/local2.jpg" width="100%" height="400px">
   
   <br><br><br>
 </td>
@@ -105,7 +105,7 @@
 <table style="background-color: #111f4d" width="100%">
 <tr>
   <td width="40%" colspan="2" valign="top">
-    <h2 style="color: #FFFFFF;"> Horario de Atención</h2>
+    <h2 style="color: #FFFFFF;"><img src="Imagenes/Calendario.png" width="9%" align="center" hspace="5px"> Horario de Atención</h2>
     <p  style="color: #FFFFFF"> Nuestros locales están abiertos y disponibles para tí 24/7, en el momento que <br>necesites nuestros servicios puedes llamar o cosultar a través de:</p>
   </td>
   <td valign="top" style="text-align: left;" width="16.5%" colspan="2" rowspan="2">
@@ -120,19 +120,20 @@
     <h2 style="color: #FFFFFF">Visítanos</h2>
     <p style="color: #FFFFFF">Estamos ubicados en:</p>
 
+
   </td>
 </tr>
 <tr>
   <td valign="top" colspan="2">
-    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="" width="9%" align="center" hspace="5px">Funerales La única Esperanza</a>
+    <a style="text-align: center;" target="_blank" href="https://www.facebook.com/funeraleslaunicaesperanza"><img src="Imagenes/Facebook.png" width="9%" align="center" hspace="5px">Funerales La única Esperanza</a>
 
 
-    <a style="text-align: center;"  href="tel:+50361189645"><img src="" width="10%" align="center" hspace="5px">6118-9645</a>
+    <a style="text-align: center;"  href="tel:+50361189645"><img src="Imagenes/tel.png" width="10%" align="center" hspace="5px">6118-9645</a>
+      <br>
+    <a style="text-align: center;" target="_blank" href="mailto:unicaesperanza@gmail.com"><img src="Imagenes/gmail1.png" width="10%" align="center" hspace="5px"> unicaesperanza@gmail.com</a>
 
-    <a style="text-align: center;" target="_blank" href="mailto:unicaesperanza@gmail.com"><img src="" width="10%" align="center" hspace="5px"> unicaesperanza@gmail.com</a>
 
-
-    <a style="text-align: center;" href="tel:+50324411926"><img src="" width="10%" align="center" hspace="5px">2441-1926</a>
+    <a style="text-align: center;" href="tel:+50324411926"><img src="Imagenes/telfijo.png" width="10%" align="center" hspace="5px">2441-1926</a>
   
 
   </td>

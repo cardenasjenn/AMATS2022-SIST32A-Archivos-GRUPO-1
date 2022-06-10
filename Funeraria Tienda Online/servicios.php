@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -46,7 +45,42 @@
     </nav>
 
     <div class="container" id="main">
-      
+    <table>
+        <tr>
+          <td>
+            servicios1<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+          <td>
+            servicios2<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+          <td>
+            servicios2<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+        </tr>
+        <tr>
+        <td>
+            servicios4<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+          <td>
+            servicios5<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+          <td>
+            servicios6<br>
+            imagen <br>
+            informacion del servicios<br>
+          </td>
+        </tr>
+      </table>
         
 
     </div> <!-- /container -->

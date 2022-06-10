@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>La única esperanza</title>
+    
 
     <!-- Último CSS compilado y minificado -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -18,18 +18,30 @@
 
 <!-- barra de navegación fija -->
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-        <span class="sr-only">Navegación de palanca</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="index.php">Funeraria la única esperanza</a>
-    </div>
-  </div>
-</nav>
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Navegación de palanca</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="">Funeraria la unica espereanza</a>
+          <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          <a class="navbar-brand" href="info.php">¿Quiénes Somos?</a>
+          <a class="navbar-brand" href="servicios.php">Servicios</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav pull-right">
+            <li>
+              <a href="" class="btn">CARRITO <span class="badge">0</span></a>
+            </li> 
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
 
 <div class="container" id="main">
 <table align="center" width="85%">
@@ -93,10 +105,13 @@
 
 </table>
 
+<div>
+    <h1>Estamos ubicados en :</h1>
+    <center>
+    	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1368.7261661571738!2d-89.55904162177129!3d13.997711494537834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f62e9a205fb7415%3A0x16af37cc3d6635bb!2sLa%20%C3%9Anica%20Esperanza.!5e0!3m2!1ses-419!2ssv!4v1622520116804!5m2!1ses-419!2ssv" width="100%" height="600vh" style="border:10;" allowfullscreen="" loading="lazy" class="mapa"></iframe>
+    	</center>
+</div>
 <br>
-<br>
-
-
 
 </section>
 

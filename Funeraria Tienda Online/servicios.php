@@ -44,40 +44,82 @@
       </div>
     </nav>
 
-    <div class="container" id="main">
-    <table>
+    <div class="container" id="main" class="danger"style="text-align:center;">
+    <table class="table table-hover">
         <tr>
           <td>
-            servicios1<br>
-            imagen <br>
-            informacion del servicios<br>
+            <img src="imagenes/s1.jpg" alt="" width=200px><br>
+              <b>Contenido del servicio</b><br>
+          
+                  Ataúd Exclusivo <br>
+                  Vehículo Fúnebre <br>
+                  4 candeleros <br>
+                  2 lámparas <br>
+                  20 sillas <br>
+                  Sala de descanso privada <br>
+                
+
+          </td>
+
+          <td>  
+            <img src="imagenes/s2.jpg" alt="" width=200px><br>
+              <b>Contenido del servicio</b><br>
+                
+                Ataúd Exclusivo <br>
+                Vehículo Fúnebre <br>
+                4 candeleros <br>
+                2 lámparas <br>
+                25 sillas <br>
+                Sala de descanso privada <br>
           </td>
           <td>
-            servicios2<br>
-            imagen <br>
-            informacion del servicios<br>
-          </td>
-          <td>
-            servicios2<br>
-            imagen <br>
-            informacion del servicios<br>
+            <img src="imagenes/s3.jpg" alt="" width=200px><br>
+              <b>Contenido del servicio</b><br>
+                
+                Ataúd Exclusivo <br>
+                Vehículo Fúnebre <br>
+                4 candeleros <br>
+                2 lámparas <br>
+                30 sillas <br>
+                Sala de descanso privada <br>
           </td>
         </tr>
         <tr>
         <td>
-            servicios4<br>
-            imagen <br>
-            informacion del servicios<br>
+            
+            <img src="imagenes/s4.jpg" alt="" width=200px><br>
+            <b>Contenido del servicio</b><br>
+          
+                Ataúd Exclusivo <br>
+                Vehículo Fúnebre <br>
+                4 candeleros <br>
+                2 lámparas <br>
+                35 sillas <br>
+                Sala de descanso privada <br>
           </td>
           <td>
-            servicios5<br>
-            imagen <br>
-            informacion del servicios<br>
+            
+            <img src="imagenes/s5.jpg" alt="" width=200px><br>
+            <b>Contenido del servicio</b><br>
+          
+                Ataúd Exclusivo <br>
+                Vehículo Fúnebre <br>
+                4 candeleros <br>
+                2 lámparas <br>
+                40 sillas <br>
+                Sala de descanso privada <br>
           </td>
           <td>
-            servicios6<br>
-            imagen <br>
-            informacion del servicios<br>
+           
+            <img src="imagenes/s6.jpg" alt="" width=200px><br>
+            <b>Contenido del servicio</b><br>
+          
+                Ataúd Exclusivo <br>
+                Vehículo Fúnebre <br>
+                4 candeleros <br>
+                2 lámparas <br>
+                50 sillas <br>
+                Sala de descanso privada <br>
           </td>
         </tr>
       </table>

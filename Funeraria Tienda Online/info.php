@@ -45,7 +45,7 @@
     </nav>
 
         
-<h2 align="center">ACERCA DE NOSOTROS</h2>
+    
 
       <div class="container" id="main">
         <table align="center" width="85%">
@@ -55,6 +55,8 @@
             <br><br>
               <dl>
               <dd>
+              <h2 align="center">ACERCA DE NOSOTROS</h2>
+              <br>
                 <h4 align="center"> Funeraria "La Única Esperanza" fue fundada en el año 1998 en Sonsonate por Carlos Reyes,<br> tenemos 22 años en la industria de servicios funerales proporcionando a nuestros clientes los servicios<br> necesarios de la mejor manera y con la mejor actitud posible, a lo largo de los años hemos ido actualizando y<br> agregando más servicios con el único propósito de que los clientes encuentren el producto adecuado.    
                 </h4>
               <dd>

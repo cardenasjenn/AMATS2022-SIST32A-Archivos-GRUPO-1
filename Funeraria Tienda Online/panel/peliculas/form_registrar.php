@@ -1,4 +1,5 @@
-<?php
+
+ <?php
 session_start();
 
 if (!isset($_SESSION ['usuarioinfo']) or empty($_SESSION ['usuarioinfo'])) 

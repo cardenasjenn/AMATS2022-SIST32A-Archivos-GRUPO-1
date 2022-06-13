@@ -59,7 +59,7 @@ if (!isset($_SESSION ['usuarioinfo']) or empty($_SESSION ['usuarioinfo']))
               <a href="../pedidos/index.php" class="btn">Pedidos</a>
             </li> 
             <li class="active">
-              <a href="index.php" class="btn">Servicios</a>
+              <a href="index.php" class="btn">Peliculas</a>
             </li>
             <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><?php print $_SESSION ['usuarioinfo']['nombre_usuario'] ?><span class="caret"></span></a>
@@ -81,13 +81,13 @@ if (!isset($_SESSION ['usuarioinfo']) or empty($_SESSION ['usuarioinfo']))
         <div class="col-md-12">
           <h3>Introduzca los datos que desea actualizar</h3><br>
           <fieldset>
-            <legend>Datos </legend>
+            <legend>Datos de la Pelicula</legend>
             <form method="POST" action="../acciones.php" enctype="multipart/form-data" >
               <input type="hidden" name="id" value="<?php print $resultado['id'] ?>">
               <div class="row">
                   <div class="col-md-6">
                       <div class="form-group">
-                          <label>Título</label>
+                          <label>Titulo</label>
                           <input value="<?php print $resultado['titulo'] ?>" type="text" class="form-control" name="titulo" required>
                       </div>
                   </div>

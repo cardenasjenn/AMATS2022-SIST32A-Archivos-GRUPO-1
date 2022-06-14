@@ -141,7 +141,7 @@ session_start();
                           SIN FOTO
                       <?php }?>
                       </td>
-                      <td><?php print $item['precio']?> PEN</td>
+                      <td>$ <?php print $item['precio']?></td>
                       <td><?php print $item['cantidad']?></td>
                     <td>
                     <?php print $total?>

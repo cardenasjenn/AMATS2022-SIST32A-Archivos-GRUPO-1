@@ -6,19 +6,20 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
 
     <title>La unica esperanza</title>
 
-
+    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/css/estilos.css">
   </head>
 
   <body>
 
-
+    <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -39,11 +40,11 @@
             <form action="login.php" method="post">
                 <div class="panel panel-default">
                     <div class="panel-heading">
-                        <h3 class="text-center">ACCESOS AL PANEL</h3>
+                        <h3 class="text-center">ACCESO AL PANEL</h3>
                     </div>
                     <div class="panel-body">
                         <p class="text-center">
-                            <img src="../assets/imagenes/logo.png" alt="">
+                            <img src="../assets/imagenes/logito.png" alt="">
                         </p>
                         <div class="form-group">
                             <label>Usuario</label>
@@ -63,8 +64,12 @@
             </form>
         </div>
 
-    </div>
+    </div> <!-- /container -->
 
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/bootstrap.min.js"></script>
 

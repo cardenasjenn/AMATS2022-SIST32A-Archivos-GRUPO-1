@@ -10,19 +10,20 @@ header('Location: index.php');
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
 
     <title>La única esperanza</title>
 
-
+    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/css/estilos.css">
   </head>
 
   <body>
 
-
+    <!-- Fixed navbar -->
     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
@@ -53,7 +54,7 @@ header('Location: index.php');
 
 
 
-        </div>
+        </div><!--/.nav-collapse -->
       </div>
     </nav>
 
@@ -93,7 +94,7 @@ header('Location: index.php');
                       <td><?php print $c?></td>
                       <td><?php print $item['nombre'].' '.$item['apellidos']?></td>
                       <td><?php print $item['id']?></td>
-                      <td><?php print $item['total']?> PEN</td>
+                      <td>$ <?php print $item['total']?></td>
                       <td><?php print $item['fecha']?></td>
                        
                       <td class="text-center">
@@ -122,7 +123,12 @@ header('Location: index.php');
           </div>
         </div>
 
-    </div> 
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
     <script src="../assets/js/jquery.min.js"></script>
     <script src="../assets/js/bootstrap.min.js"></script>
 

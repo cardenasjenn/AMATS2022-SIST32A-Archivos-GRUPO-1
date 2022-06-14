@@ -110,7 +110,7 @@ class Pedido{
                 dp.cantidad,
                 pe.foto
                 FROM detalle_pedidos dp
-                INNER JOIN peliculas pe ON pe.id= dp.pelicula_id
+                INNER JOIN servicios pe ON pe.id= dp.pelicula_id
                 WHERE dp.pedido_id = :id";
 
         $resultado = $this->cn->prepare($sql);

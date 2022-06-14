@@ -13,6 +13,7 @@ if($_SERVER['REQUEST_METHOD'] ==='POST'){
         if(empty($_POST['descripcion']))
             exit('Completar titulo');
 
+            
         
         $_params = array(
             'titulo'=>$_POST['titulo'],
